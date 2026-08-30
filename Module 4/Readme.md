@@ -1,4 +1,4 @@
 # Software 1 - Python exercises
 **Ishara Nushangani**
-## Module 1 & 2
-I completed exercises 1 and 2.
+## Module 4
+I completed exercises 1,2,3 and 4.
