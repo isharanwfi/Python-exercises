@@ -72,10 +72,10 @@ else:
         print("       MAIN MENU")
         print("================================")
         print("1. Explore - search the surrounding area")
-        print("2. View Map - Open the map to know your searching locations")
-        print("3. View Inventory - Check your collected items")
-        print("4. View Clues - Identify the clues")
-        print("5. View Status - Check player's status")
+        print("2. Map - Open the map to know your searching locations")
+        print("3. Inventory - Check your collected items")
+        print("4. Clues - Identify the clues")
+        print("5. Status - Check player's status")
         print("6. Save Game - Save your progress")
         print("7. Instructions - View game instructions")
         print("8. lopeta - Exit the game")
@@ -88,16 +88,16 @@ else:
             print("Explore: \nYou are going to search the surrounding area...")
 
         elif Choice == 2:
-            print("View Map: \nYou are going to open the map to know your searching locations...")
+            print("Map: \nYou are going to open the map to know your searching locations...")
 
         elif Choice == 3:
-            print("View Inventory: \nYou are going to check your collected items...")
+            print("Inventory: \nYou are going to check your collected items...")
 
         elif Choice == 4:
-            print("View Clues: \nYou are going to identify the clues...")
+            print("Clues: \nYou are going to identify the clues...")
 
         elif Choice == 5:
-            print("View Status: \nYou are going to check player's status...")
+            print("Status: \nYou are going to check player's status...")
 
         elif Choice == 6:           
             print("Save Game: \nYou are going to save your progress...")
