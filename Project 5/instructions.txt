@@ -1,0 +1,54 @@
+========================================
+             INSTRUCTIONS
+========================================
+
+MISSION:
+Find the lost dog Duty and bring him home safely.
+
+HOW TO PLAY:
+
+1. Start a New Game or Continue a saved game.
+
+2. Explore different locations:
+   - Park
+   - Shop
+   - Neighborhood
+   - Clinic
+   - Forest
+
+3. Search locations to find clues and coins.
+
+4. Go to the Park and search the old bench.
+   You may find a useful item there.
+
+5. Collect enough coins to unlock the Clinic.
+
+6. Visit the Clinic and buy the Dog Whistle.
+
+7. Go to the Forest with the Dog Whistle.
+
+8. Use the Dog Whistle to call Duty.
+
+9. Find Duty and complete your mission!
+
+MAIN MENU:
+
+1. Explore
+2. View Map
+3. Inventory
+4. View Clues
+5. View Status
+6. Save Game
+7. Exit Game
+
+SAVE GAME:
+
+Choose "Save Game" to save your progress.
+
+You can continue your saved game later
+by selecting "Continue Game" when the
+program starts.
+
+========================================
+             GOOD LUCK!
+========================================
