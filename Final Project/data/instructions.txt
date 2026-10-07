@@ -1,0 +1,10 @@
+HOW TO PLAY
+- Search places to find coins, clues and items. Results are random!
+- Explore random places or choose where to go.
+- Each place has a special action (see the menu).
+- The Clinic costs 15 coins to unlock.
+- A dog whistle (5 coins, sold at the Clinic) is needed to enter the Forest.
+- Hint: the Park hides something under the old bench.
+- Ways to earn coins: searching, recycling bottles at the Shop,
+  returning lost keys, and following the map.
+- Type "lopeta" in the main menu to quit.

@@ -1,0 +1,12 @@
+name=Ishara
+age=25
+coins=2
+location=Forest
+items=Dog whistle
+clues=A poster on the wall: 'Lost: Golden Retriever named Duty. Please help!'
+clinic_unlocked=True
+map_taken=True
+keys_taken=False
+map_used=True
+keys_returned=False
+finished=True
